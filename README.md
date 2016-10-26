@@ -8,3 +8,5 @@ npm install jsonfile
 node version.js
 dotnet restore
 ```
+
+**You need to update the script to include the relative path to your project.json file**
